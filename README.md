@@ -1,0 +1,1 @@
+# majestic-events-calendar
